@@ -26,6 +26,8 @@ for(let i in student)
     console.log(i);// name age gpa is printed
     
 }
+console.log(typeof student);
+
 
 
 /*for(let b of student)
@@ -35,11 +37,11 @@ for(let i in student)
     */
    //gussing game program
 
-let numb=34;
+/*let numb=34;
 let guess=prompt("Guess the number");
 while(guess!=numb)
 {
     guess=prompt("Try again");
 }
 console.log("You gussed the right one");
-
+*/
